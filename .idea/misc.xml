@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/anim.xml" value="0.281" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/edittext.xml" value="0.281" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/gradiant1.xml" value="0.259" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/gradiant2.xml" value="0.259" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/gradiant3.xml" value="0.259" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.259" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/ic_email.xml" value="0.281" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/ic_name.xml" value="0.281" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/ic_password.xml" value="0.281" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/person_.xml" value="0.259" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/thumb_up.xml" value="0.259" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/drawable/user.xml" value="0.281" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/font/font1.xml" value="0.3958333333333333" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/activity_after_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/activity_alert.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/activity_form.xml" value="0.16" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/activity_fragment.xml" value="0.15" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/content_layout.xml" value="0.14" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/fragment_notification.xml" value="0.3463541666666667" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/menu/actvity_menu.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/xml/background1.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/xml/background2.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/Login/app/src/main/res/xml/background3.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
